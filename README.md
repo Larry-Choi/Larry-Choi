@@ -10,7 +10,7 @@
 
 <br />
 
-<a href="https://larry-choi.github.io/?v=20260526-research">
+<a href="https://larry-choi.github.io/resume/">
   <img src="https://img.shields.io/badge/Resume-047857?style=for-the-badge&logo=readme&logoColor=white" />
 </a>
 <a href="https://github.com/Larry-Choi">
